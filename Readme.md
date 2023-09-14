@@ -9,7 +9,7 @@ The floorsheet format is as provided by NEPSE. New calculated columns should be 
 # Output 
 Upon running the program, excel file will be created for each unit holder with two sheets within the file. One sheet contains the trade history of the client while the other contains the WACC value with remarks. 
 In the end the summary excel file is created where WACC and remarks for each client is merged. 
-![Final output excel format](https://github.com/Arun-Lama/WACC-Calculation-Nepalese-Mutualfunds/blob/a3038d03b7d028cf2b9ee780c2c3a7c1a0f062c5/output%20format.png)
+![Final output excel format](https://github.com/Arun-Lama/WACC-Calculation-Nepalese-Mutualfunds/blob/519e298efdf5c1b2fd14078015ccae9aeac09b94/WACC%20OUTPUT.png)
 
 # Contribution
 Any kind of contribution is appreciated. 
