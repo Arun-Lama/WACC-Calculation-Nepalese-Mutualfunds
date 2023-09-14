@@ -4,7 +4,7 @@ This code can be used to calculate WACC for each unit holder of Nepalese mutual 
 
 # Floorsheet Format (Input)
 The floorsheet format is as provided by NEPSE. New calculated columns should be added to calculate broker and sebon comission. Effective rate should be calculated for each transaction in the floorsheet. 
-![Floorsheet format](https://github.com/Arun-Lama/WACC-Calculation-Nepalese-Mutualfunds/blob/a3038d03b7d028cf2b9ee780c2c3a7c1a0f062c5/output%20format.png)
+![Floorsheet format](https://github.com/Arun-Lama/WACC-Calculation-Nepalese-Mutualfunds/blob/5851c59e9a5537760e4c7472b036bb23025edb67/floorsheeet.png)
 
 # Output 
 Upon running the program, excel file will be created for each unit holder with two sheets within the file. One sheet contains the trade history of the client while the other contains the WACC value with remarks. 
